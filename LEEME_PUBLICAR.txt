@@ -1,0 +1,2 @@
+Este paquete corregido sí incluye el apartado de Fundadores.
+Si compras otro dominio distinto a salveagro.com.co, reemplázalo en index.html, robots.txt y sitemap.xml.
